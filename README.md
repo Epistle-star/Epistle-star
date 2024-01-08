@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Epistle
 - 👀 I’m interested in Java development
+- Currently learning Java web application
 - 💞️ I’m looking to collaborate on java developers
 - 📫 How to reach me instagram @_epistle001
 
